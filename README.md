@@ -5,4 +5,5 @@ This program really just sends a message after a certain number of seconds, idk 
 
 so far only in Russian, as I am from Russia, in the future if I learn, I will add English.
 
-![image](https://github.com/DimaBroZY/TimeMessage/assets/69715222/d1ada7dd-20fd-4ff7-9b00-9c3e4caf5ba6)
+![image](https://github.com/DimaBroZY/TimeMessage/assets/69715222/19a9ee88-9f7a-4599-a9f4-635d6dbb4121)
+
